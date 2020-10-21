@@ -9,8 +9,8 @@ To access the step-by-step instructions to Workshop 4, please [follow this link]
 ## Practical 7 Instructions (Meta-analysis)
 > workshop given by Arthur Gilly
 
-To access the step-by-step instructions to Workshop 7, please [follow this link](https://nbviewer.jupyter.org/github/hmgu-itg/HumGenEpiAfrica/blob/main/Workshop_meta/Workshop_meta.ipynb?flush_cache=true).
+To access the step-by-step instructions to Workshop 7, please [follow this link](https://nbviewer.jupyter.org/github/hmgu-itg/HumGenEpiAfrica/blob/main/Workshop5_MetaAnalysis/Meta-analysis.ipynb?flush_cache=true).
 
-If the above does not work, [try this link](https://colab.research.google.com/github/hmgu-itg/HumGenEpiAfrica/blob/main/Workshop_meta/Workshop_meta.ipynb) (you will need a Google account).
+If the above does not work, [try this link](https://colab.research.google.com/github/hmgu-itg/HumGenEpiAfrica/blob/main/Workshop5_MetaAnalysis/Meta-analysis.ipynb) (you will need a Google account).
 
 
